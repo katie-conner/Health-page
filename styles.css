@@ -1,5 +1,6 @@
 h1 {
   text-align: center;
+  color: green;
 
 }
 
@@ -11,6 +12,6 @@ p {
   text-align: center;
 }
 
-#green {
-  color: green;
+div {
+  text-align:center;
 }
