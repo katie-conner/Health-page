@@ -1,0 +1,28 @@
+body{
+  background-color: rgb(255, 253,208);
+}
+
+h1 {
+  font-size: 6em;
+  text-align: center;
+  color: green;
+}
+
+
+h2 {
+  font-size: 2em;
+}
+
+div {
+  text-align:center
+  ;
+}
+
+p2 {
+  font-size: 1.2em;
+}
+
+p {
+  text-align: center;
+  font-size: 2em;
+}
