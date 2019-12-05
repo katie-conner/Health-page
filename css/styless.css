@@ -1,11 +1,11 @@
 h1 {
-  color: white;
+  color: black;
   text-align: center;
   font-size: 4em;
 }
 
 h2 {
-  
+
   font-size:2em;
 }
 
@@ -17,6 +17,6 @@ div {
 }
 
 body {
-  color:white;
-  background-color:rgb(34, 220, 34);
+  color:black;
+  background-color:rgb(255, 253, 208);
 }
