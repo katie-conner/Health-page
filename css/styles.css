@@ -1,22 +1,28 @@
+body{
+  background-color: rgb:245, 245, 220;
+}
+
 h1 {
   font-size: 6em;
   text-align: center;
   color: green;
-
 }
 
+
 h2 {
-  text-align: center;
+  font-size: 2em;
+}
+
+div {
+  text-align:center
+  ;
+}
+
+p2 {
+  font-size: 1.2em;
 }
 
 p {
   text-align: center;
-}
-
-div {
-  text-align:center;
-}
-
-body{
-  background-color: rgb:245, 245, 220;
+  font-size: 2em;
 }
